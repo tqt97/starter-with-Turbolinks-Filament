@@ -1,4 +1,4 @@
-<?
+<?php
 
 /**
  * @Author Tuantq - quoctuanit2018@gmail.com
